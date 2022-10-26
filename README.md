@@ -4,6 +4,7 @@
 
 Objective - to simulate advisor in one of the top five financial advisory firm. 
 Scenario - propose a novel approach to assembling cryptocurrency based investment portfolios utilizing atypical factors that may impact market and result in better performance. 
+
 Product - combine financial Python programming with unsupervised learning to create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. Provide visualization/s, i.e. plot the results to demonstrate performance to the board.
 
 
