@@ -192,7 +192,10 @@ Santiago Pedemonte
 
 ### **askBCS assistants**
 
-Non-participant
+Sean Myers
+    [LinkedIn](https://www.linkedin.com/in/iamseanmyers/)
+    [@GitHub](github.com/iamseanzie)
+
 
 ### **Additional references**
 
