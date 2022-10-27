@@ -2,16 +2,42 @@
 # **August 2022 Cohort**
 ## *Module 10, Challenge - assembling investment portfolios that are based on cryptocurrencies*
 
-Objective - to simulate advisor in one of the top five financial advisory firm. 
-Scenario - propose a novel approach to assembling cryptocurrency based investment portfolios utilizing atypical factors that may impact market and result in better performance. 
+![Crypto Assets](images/image7.png)
+
+Objective - to simulate advisor in a major financial advisory firm. 
+Scenario - a novel approach to assembling cryptocurrency based investment portfolios utilizing atypical factors that may impact market and result in better performance is proposed. 
 
 Product - combine financial Python programming with unsupervised learning to create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. Provide visualization/s, i.e. plot the results to demonstrate performance to the board.
 
 
+---
+## **Methods**
+### The code script analysis performed:
+
+    Import the Data from CSV file (provided in the starter code)
+        Read the “crypto_market_data.csv” file from the Resources folder into a DataFrame
+        
+    Prepare the Data
+        Generate the summary statistics, and use HvPlot to visualize your data inspect DataFrame contents
+
 ![Crypto Assets](images/image1.png)
 
 
----
+    Find the Best Value for k Using the Original Data
+    Cluster Cryptocurrencies with K-means Using the Original Data
+    Optimize Clusters with Principal Component Analysis (PCA)
+    Find the Best Value for k Using the Principal Component Analysis (PCA) Data
+    Cluster the Cryptocurrencies with K-means Using the Principal Component Analysis (PCA) Data
+    Visualize and Compare the Results
+
+___
+
+![InertiaElbows](images/image5.png)
+
+![Scatters](images/image6.png)
+
+
+___
 
 Supplemental processing and analysis:
 
@@ -23,25 +49,6 @@ Elbow Method and Silhouette Analysis -
 
 ![Distortion Elbows - Yellowbrick](images/image4.png)
 
-
----
-## **Methods**
-### The code script analysis performed:
-
-    Import the Data from CSV file(provided in the starter code)
-    Prepare the Data 
-    Find the Best Value for k Using the Original Data
-    Cluster Cryptocurrencies with K-means Using the Original Data
-    Optimize Clusters with Principal Component Analysis
-    Find the Best Value for k Using the PCA Data
-    Cluster the Cryptocurrencies with K-means Using the PCA Data
-    Visualize and Compare the Results
-
-___
-
-![InertiaElbows](images/image5.png)
-
-![Scatters](images/image6.png)
 
 
 ---
@@ -166,7 +173,8 @@ Loki 'billie' Skylizard
 Will Conyea 
     [LinkedIn](https://www.linkedin.com/in/william-conyea-3666a7172/)
     [@GitHub](https://github.com/willco-1)
-#####         *ALL primary assignment conducted indpendently, collaboration limited to supplemental materials*
+
+#####        *ALL primary assignment conducted indpendently, collaboration limited to supplemental materials*
 
 ### **BootCamp lead instructor**
 
@@ -187,6 +195,8 @@ Santiago Pedemonte
 Non-participant
 
 ### **Additional references**
+
+[365DataScience](https://365datascience.com/tutorials/python-tutorials/pca-k-means/)
 
 [StackAbuse](https://stackabuse.com/k-means-elbow-method-and-silhouette-analysis-with-yellowbrick-and-scikit-learn/)
 
