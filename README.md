@@ -82,6 +82,12 @@ For additional and / or supplemental processing and visulaization this project a
 * [SilhouetteVisualizer](https://www.scikit-yb.org/en/latest/api/cluster/silhouette.html?highlight=SilhouetteVisualizer#silhouette-visualizer) - from Yellowbrick, utilize Silhouette Coefficient when the dataset ground-truth is unknown, computes the density of clusters modeled, score is computed by averaging the silhouette coefficient for each sample, computed as the difference between the average intra-cluster distance and the mean nearest-cluster distance for each sample, normalized by the maximum value. This produces a score between 1 and -1, where 1 is highly dense clusters and -1 is completely incorrect clustering.
 
 
+* [html5lib](https://pypi.org/project/html5lib/) - a pure-python library for parsing HTML. It is designed to conform to the WHATWG HTML specification, as is implemented by all major web browsers.
+
+
+
+
+
 ### **Hardware used for development**
 
 MacBook Pro (16-inch, 2021)
@@ -200,6 +206,11 @@ Sean Myers
     [LinkedIn](https://www.linkedin.com/in/iamseanmyers/)
     [@GitHub](github.com/iamseanzie)
 
+Mounika Mamindla
+    [LinkedIn](https://www.linkedin.com/in/mounika-mamindla/)
+
+
+---
 
 ### **Additional references**
 
@@ -209,6 +220,11 @@ Sean Myers
 
 [Geeks for Geeks](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
 
+[oxylabs](https://oxylabs.io/blog/pandas-read-html-tables)
+
+[STACK OVERFLOW](https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe)
+
+[LearnDataSci](https://www.learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/)
 
 ---
 ## **License**
