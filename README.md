@@ -56,7 +56,7 @@ Elbow Method and Silhouette Analysis -
 ---
 ### **Dependencies**
 
-This project leverages Jupyter Lab v3.4.4 and python v3.7 with the following packages:
+This project leverages Jupyter Lab v3.4.4 and python v3.9.13 with the following packages:
 
 * [pandas](https://pandas.pydata.org/docs/) - software library written for the python programming language for data manipulation and analysis.
 
@@ -72,6 +72,10 @@ This project leverages Jupyter Lab v3.4.4 and python v3.7 with the following pac
 
 
 For additional and / or supplemental processing and visulaization this project also makes use of the following packages:
+
+* [matplotlib.pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python; matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB
+
+* [seaborn](https://seaborn.pydata.org/tutorial/introduction) - Software library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
 
 * [KElbowVisualizer](https://www.scikit-yb.org/en/latest/api/cluster/elbow.html) - from Yellowbrick, implements the “elbow” method to help data scientists select the optimal number of clusters by fitting the model with a range of values for K.
 
