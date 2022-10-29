@@ -46,6 +46,9 @@ Beyond the scope of the assignment, the author sought to conduct additional anal
 Elbow Method and Silhouette Analysis -
    distortion elbow and silhouette plots were supplemented for the analysis
    
+Supplemental CSV file was downloaded from Kaggle, 'Top 100 Cryptocurrency 2022'
+[Kaggle](https://www.kaggle.com/datasets/majyhain/top-100-cryptocurrency-2022)
+   
 
 ![Distortion Elbows - Yellowbrick](images/image4.png)
 
@@ -80,6 +83,7 @@ For additional and / or supplemental processing and visulaization this project a
 * [KElbowVisualizer](https://www.scikit-yb.org/en/latest/api/cluster/elbow.html) - from Yellowbrick, implements the “elbow” method to help data scientists select the optimal number of clusters by fitting the model with a range of values for K.
 
 * [SilhouetteVisualizer](https://www.scikit-yb.org/en/latest/api/cluster/silhouette.html?highlight=SilhouetteVisualizer#silhouette-visualizer) - from Yellowbrick, utilize Silhouette Coefficient when the dataset ground-truth is unknown, computes the density of clusters modeled, score is computed by averaging the silhouette coefficient for each sample, computed as the difference between the average intra-cluster distance and the mean nearest-cluster distance for each sample, normalized by the maximum value. This produces a score between 1 and -1, where 1 is highly dense clusters and -1 is completely incorrect clustering.
+
 
 
 * [html5lib](https://pypi.org/project/html5lib/) - a pure-python library for parsing HTML. It is designed to conform to the WHATWG HTML specification, as is implemented by all major web browsers.
@@ -202,12 +206,21 @@ Santiago Pedemonte
 
 ### **askBCS assistants**
 
+Roberto Salazar
+    [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/)
+    [@GitHub](https://github.com/rsalaza4)
+
 Sean Myers
     [LinkedIn](https://www.linkedin.com/in/iamseanmyers/)
     [@GitHub](github.com/iamseanzie)
 
 Mounika Mamindla
     [LinkedIn](https://www.linkedin.com/in/mounika-mamindla/)
+
+Charles Twitchell
+    [LinkedIn](https://www.linkedin.com/in/charlestwitchell/)
+    [@GitHub](https://github.com/CharlesTwitchell)
+
 
 
 ---
