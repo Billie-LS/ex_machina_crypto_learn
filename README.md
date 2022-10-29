@@ -182,14 +182,6 @@ Loki 'billie' Skylizard
     [@GitHub](https://github.com/Billie-LS)
 
 
-### **BootCamp Classmate Collaboration**
-
-Will Conyea 
-    [LinkedIn](https://www.linkedin.com/in/william-conyea-3666a7172/)
-    [@GitHub](https://github.com/willco-1)
-
-#####        *ALL primary assignment conducted indpendently, collaboration limited to supplemental materials*
-
 ### **BootCamp lead instructor**
 
 Vinicio De Sola
@@ -202,6 +194,17 @@ Vinicio De Sola
 Santiago Pedemonte
     [LinkedIn](https://www.linkedin.com/in/s-pedemonte/)
     [@GitHub](https://github.com/Santiago-Pedemonte)
+
+
+### **BootCamp Classmate assistance**
+
+Will Conyea 
+    [LinkedIn](https://www.linkedin.com/in/william-conyea-3666a7172/)
+    [@GitHub](https://github.com/willco-1)
+
+Stratis Gavnoudias 
+    [LinkedIn](https://www.linkedin.com/in/stratis-gavnoudias-465b527/)
+    [@GitHub](https://github.com/sgavnoudias)
 
 
 ### **askBCS assistants**
@@ -225,7 +228,7 @@ Charles Twitchell
 
 ---
 
-### **Additional references**
+### **Additional references and or resources utilized**
 
 
 
@@ -237,7 +240,15 @@ Charles Twitchell
 
 [oxylabs](https://oxylabs.io/blog/pandas-read-html-tables)
 
+[Shane Lynn](https://www.shanelynn.ie/pandas-drop-delete-dataframe-rows-columns/)
+
 [STACK OVERFLOW](https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe)
+
+[STACK OVERFLOW](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
+
+[STACK OVERFLOW](https://stackoverflow.com/questions/44225771/scraping-historical-data-from-yahoo-finance-with-python)
+
+[STACK OVERFLOW](https://stackoverflow.com/questions/8949252/why-do-i-get-attributeerror-nonetype-object-has-no-attribute-something)
 
 [LearnDataSci](https://www.learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/)
 
