@@ -213,6 +213,10 @@ Roberto Salazar
     [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/)
     [@GitHub](https://github.com/rsalaza4)
 
+Vijaya Reddy
+    [LinkedIn](https://www.linkedin.com/in/vijaya-reddy-209b041a3/)
+    [@GitHub]()
+
 Sean Myers
     [LinkedIn](https://www.linkedin.com/in/iamseanmyers/)
     [@GitHub](github.com/iamseanzie)
@@ -237,6 +241,12 @@ Charles Twitchell
 [StackAbuse](https://stackabuse.com/k-means-elbow-method-and-silhouette-analysis-with-yellowbrick-and-scikit-learn/)
 
 [Geeks for Geeks](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
+
+[Geeks for Geeks](https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/)
+
+[Geeks for Geeks](https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/#:~:text=split(),-View%20Discussion&text=Pandas%20provide%20a%20method%20to,from%20a%20single%20separated%20string.)
+
+[Statology](https://www.statology.org/pandas-combine-two-columns/)
 
 [oxylabs](https://oxylabs.io/blog/pandas-read-html-tables)
 
