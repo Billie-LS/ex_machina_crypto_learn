@@ -97,3 +97,18 @@ class PreProcess:
                 supply = float(supply_string)
                 supply *= trillion
             return supply
+  
+
+
+    def clean_percent(dirty_dataframe):
+        dataframe = dirty_dataframe
+        # transform 'Changes 24H' from percent to float value
+        dataframe['Changes 24H'] = dataframe['Changes 24H'].str.rstrip('%').astype('float') / 100.0
+        # transform 'Changes 7D' from percent to float value
+        dataframe['Changes 7D'] = dataframe['Changes 7D'].str.rstrip('%').astype('float') / 100.0
+        # transform 'Changes 30D' from percent to float value
+        dataframe['Changes 30D'] = dataframe['Changes 30D'].str.rstrip('%').astype('float') / 100.0
+        # transform 'Changes 1Y' from percent to float value
+        dataframe['Changes 1Y'] = dataframe['Changes 1Y'].str.rstrip('%').astype('float') / 100.0
+        clean_dataframe = dataframe
+        return clean_dataframe    
