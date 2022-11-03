@@ -1,0 +1,365 @@
+ 5799  conda info --envs
+ 5800  conda activate bootcamp_env
+ 5801  jupyter lab
+ 5802  conda deactivate
+ 5803  cd Desktop
+ 5804  git clone git@github.com:Billie-LS/Portfolio_Optimize_PMPT.git
+ 5805  cd Portfolio_Optimize_PMPT
+ 5806  conda activate quant_env
+ 5807  jupyter lab
+ 5808  git add .
+ 5809  git add *
+ 5810  git commit -m 'diversified'
+ 5811  git push
+ 5812  conda activate quant_env
+ 5813  jupyter lab
+ 5814  git add .
+ 5815  git add *
+ 5816  git commit -m 'revision'
+ 5817  git push
+ 5818  cd maccd ..
+ 5819  cd ..
+ 5820  cd machine1
+ 5821  conda activate bootcamp_env
+ 5822  jupyter lab
+ 5823  conda activate bootcamp_env
+ 5824  jupyter lab
+ 5825  conda deactivate
+ 5826  conda activate quant_env
+ 5827  jupyter lab
+ 5828  conda activate bootcamp_env
+ 5829  jupyter lab
+ 5830  conda deactivate
+ 5831  git add .
+ 5832  git add *
+ 5833  git commit -m 'stock scrape'
+ 5834  conda activate bootcamp_env
+ 5835  jupyter lab
+ 5836  git add .
+ 5837  git add *
+ 5838  git commit -m 'stock scrape'
+ 5839  git push
+ 5840  git status
+ 5841  git pull
+ 5842  conda activate bootcamp_env
+ 5843  jupyter lab
+ 5844  conda activate bootcamp_env
+ 5845  jupyter lab
+ 5846  conda deactivate
+ 5847  conda activate bootcamp_env
+ 5848  jupyter lab
+ 5849  conda activate quant_env
+ 5850  jupyter lab
+ 5851  git add .
+ 5852  git add *
+ 5853  git commit -m 'minor run'
+ 5854  git push
+ 5855  conda deactivate
+ 5856  conda activate bootcamp_env
+ 5857  jupyter lab
+ 5858  conda deactivate
+ 5859  conda activate bootcamp_env
+ 5860  jupyter lab
+ 5861  conda deactivate
+ 5862  conda activate bootcamp_env
+ 5863  jupyter lab
+ 5864  conda deactivate
+ 5865  git pull
+ 5866  git status
+ 5867  conda activate bootcamp_env
+ 5868  conda deactivate
+ 5869  conda activate bootcamp_env
+ 5870  jupyter lab
+ 5871  conda activate bootcamp_env
+ 5872  pip install yellowbrick
+ 5873  conda deactivate
+ 5874  conda activate bootcamp_env
+ 5875  jupyter lab
+ 5876  conda deactivate
+ 5877  cd Desktop
+ 5878  git clone git@github.com:Billie-LS/ex_machina_crypto_learn.git
+ 5879  git status
+ 5880  cd ex_machina_crypto_learn
+ 5881  git status
+ 5882  git add .
+ 5883  git add *
+ 5884  git commit -m 'initial code package/s'
+ 5885  git push
+ 5886  conda activate bootcamp_env
+ 5887  jupyter lab
+ 5888  conda activate bootcamp_env
+ 5889  jupyter lab
+ 5890  conda deactivate
+ 5891  git status
+ 5892  git add .
+ 5893  git add *
+ 5894  git commit -m 'initial coding pass'
+ 5895  git push
+ 5896  cd Desktop
+ 5897  git clone
+ 5898  git clone git@github.com:Billie-LS/Emergency_and_Retirement_Financial_Planner.git
+ 5899  cd Emergency_and_Retirement_Financial_Planner
+ 5900  code .
+ 5901  git add .
+ 5902  git add *
+ 5903  git commit -m 'gitignore, readme'
+ 5904  git push
+ 5905  conda activate bootcamp_env
+ 5906  jupyter lab
+ 5907  conda deactivate
+ 5908  git status
+ 5909  git add .
+ 5910  git add *
+ 5911  git commit -m 'ReadMe, rich content, code clean, dry'
+ 5912  git push
+ 5913  conda deactivate
+ 5914  conda activate bootcamp_env
+ 5915  jupyter lab
+ 5916  conda deactivate
+ 5917  git add .
+ 5918  git add *
+ 5919  git commit -m 'edit ReadMe'
+ 5920  git push
+ 5921  conda activate bootcamp_env
+ 5922  jupyter lab
+ 5923  git status
+ 5924  jupyter lab
+ 5925  git add .
+ 5926  git add *
+ 5927  git commit -m 'ReadMe edit'
+ 5928  git push
+ 5929  conda deactivate
+ 5930  conda activate bootcamp_env
+ 5931  jupyter lab
+ 5932  git status
+ 5933  git add .
+ 5934  git add *
+ 5935  git commit -m 'readme rich content, code advances kmeans PCA'
+ 5936  git push
+ 5937  conda activate bootcamp_env
+ 5938  git pull
+ 5939  jupyter lab
+ 5940  git status
+ 5941  git add .
+ 5942  git add *
+ 5943  git commit -m 'readme add askBCS, coding plot correct'
+ 5944  git push
+ 5945  conda deactivate
+ 5946  conda activate bootcamp_env
+ 5947  jupyter lab
+ 5948  git status
+ 5949  git add .
+ 5950  git add *
+ 5951  git commit -m 'clean code'
+ 5952  git push
+ 5953  conda deactivate
+ 5954  conda activate bootcamp_env
+ 5955  jupyter lab
+ 5956  git add .
+ 5957  git add *
+ 5958  git commit -m 'random 42'
+ 5959  git push
+ 5960  conda deactivate
+ 5961  conda activate bootcamp_env
+ 5962  jupyter lab
+ 5963  git add .
+ 5964  git add *
+ 5965  git commit -m 'finesse plot'
+ 5966  git push
+ 5967  conda activate bootcamp_env
+ 5968  jupyter lab
+ 5969  ! jupyter –version
+ 5970  jupyter –version
+ 5971  ! jupyter --version
+ 5972  conda deactivate
+ 5973  git status
+ 5974  git add .
+ 5975  git add *
+ 5976  git commit -m 'ReadMe depend update, code advance plots, add scratch code notebook file'
+ 5977  git push
+ 5978  conda deactivate
+ 5979  conda activate bootcamp_env
+ 5980  jupyter lab
+ 5981  info --envs
+ 5982  conda info --envs\n
+ 5983  conda activate quant_env
+ 5984  jupyter lab
+ 5985  conda activate bootcamp_env
+ 5986  pip install yahoofinancials\n
+ 5987  pip install yfinance -U
+ 5988  pip install html5lib\n
+ 5989  conda deactivate
+ 5990  git add .
+ 5991  git add *
+ 5992  git status
+ 5993  conda deactivate
+ 5994  git commit -m 'scrape script, readme update'
+ 5995  git push
+ 5996  conda activate bootcamp_env
+ 5997  jupyter lab
+ 5998  conda activate bootcamp_env
+ 5999  jupyter lab
+ 6000  conda deactivate
+ 6001  git status
+ 6002  git add .
+ 6003  git add *
+ 6004  git commit -m 'code clean from kaggle'
+ 6005  git push
+ 6006  conda activate bootcamp_env
+ 6007  jupyter lab
+ 6008  conda deactivate
+ 6009  git status
+ 6010  conda activate bootcamp_env
+ 6011  jupyter lab
+ 6012  git status
+ 6013  git add .
+ 6014  git add *
+ 6015  git commit -m 'Kaggle data clean, ReadMe update'
+ 6016  git push
+ 6017  conda deactivate
+ 6018  conda activate bootcamp_env
+ 6019  jupyter lab
+ 6020  conda deactivate
+ 6021  git status
+ 6022  git add .
+ 6023  git add *
+ 6024  git commit -m 'advanced clean, visualize, readme update'
+ 6025  git push
+ 6026  conda deactivate
+ 6027  conda activate bootcamp_env
+ 6028  jupyter lab
+ 6029  conda deactivate
+ 6030  git status
+ 6031  git add .
+ 6032  git add *
+ 6033  git commit -m 'advanced clustering and visualization, supplementals'
+ 6034  git push
+ 6035  conda activate bootcamp_env
+ 6036  jupyter lab
+ 6037  git status
+ 6038  git add .
+ 6039  git add *
+ 6040  git commit -m 'askbcs assist upload'
+ 6041  git push
+ 6042  jupyter lab
+ 6043  conda activate bootcamp_env
+ 6044  jupyter lab
+ 6045  conda deactivate
+ 6046  code .
+ 6047  /opt/homebrew/bin/python3 -m pip install -U autopep8
+ 6048  conda activate bootcamp_env
+ 6049  python3.10 -m pip install --upgrade pip
+ 6050  jupyter lab
+ 6051  git status
+ 6052  git add .
+ 6053  git add *
+ 6054  git commit -m 'data cleaning, readme update'
+ 6055  git push
+ 6056  conda deactivate
+ 6057  conda activate bootcamp_env
+ 6058  jupyter lab
+ 6059  conda activate bootcamp_env
+ 6060  pip install lxml
+ 6061  pip install beautifulsoup4
+ 6062  conda deactivate
+ 6063  git add .
+ 6064  git add *
+ 6065  git commit -m 'data analysis'
+ 6066  git push
+ 6067  conda deactivate
+ 6068  conda activate bootcamp_env
+ 6069  jupyter lab
+ 6070  git add .
+ 6071  git add *
+ 6072  git commit -m 'updates'
+ 6073  git push
+ 6074  conda activate bootcamp_env
+ 6075  jupyter lab
+ 6076  conda activate bootcamp_env
+ 6077  jupyter lab
+ 6078  conda activate bootcamp_env
+ 6079  pip install pystan
+ 6080  pip install fbprophet
+ 6081  pip install python=3.7\n
+ 6082  pip install python==3.7\n
+ 6083  conda install python=3.7 anaconda=custom
+ 6084  conda deactivate
+ 6085  conda remove --name bootcamp_env —all\n
+ 6086  conda remove --name bootcamp_env --all\n
+ 6087  jupyter kernelspec remove bootcamp_env
+ 6088  conda create -n bootcamp_env python=3.9 anaconda\n
+ 6089  conda activate bootcamp_env
+ 6090  pip install fire
+ 6091  pip install questionary
+ 6092  conda update jupyterlab
+ 6093  pip install python-dotenv
+ 6094  conda update conda
+ 6095  conda install -c pyviz hvplot geoviews
+ 6096  conda update SQLAlchemy\n
+ 6097  conda install -c conda-forge voila
+ 6098  pip install --upgrade pip\n
+ 6099  pip install pandas_datareader
+ 6100  pip install yellowbrick
+ 6101  pip install yahoofinancials
+ 6102  pip install yfinance -U\n
+ 6103  pip install html5lib
+ 6104  conda deactivate
+ 6105  conda create -n bootcamp_ml_env python=3.8 anaconda
+ 6106  conda activate bootcamp_ml_env
+ 6107  pip install --upgrade pip
+ 6108  conda update conda
+ 6109  conda install libpython m2w64-toolchain -c msys2
+ 6110  conda install numpy cython -c conda-forge
+ 6111  conda install matplotlib scipy pandas -c conda-forge
+ 6112  conda install pystan -c conda-forge
+ 6113  conda install -c anaconda ephem
+ 6114  pip install scikit-learn
+ 6115  conda install -c conda-forge prophet
+ 6116  from prophet import Prophet
+ 6117  cd Desktop
+ 6118  cd machine1
+ 6119  jupyter lab
+ 6120  conda deactivate
+ 6121  conda activate bootcamp_ml_env
+ 6122  conda update jupyterlab
+ 6123  pip install fire\n\tpip install questionary
+ 6124  pip install python-dotenv
+ 6125  conda install -c pyviz hvplot geoviews
+ 6126  conda update SQLAlchemy
+ 6127  conda install -c conda-forge voila
+ 6128  pip install pandas_datareader\n
+ 6129  python -m pip install ipykernel\n
+ 6130  cd Desktop
+ 6131  cd machine1
+ 6132  jupyter lab
+ 6133  conda deactivate
+ 6134  conda info --envs
+ 6135  conda activate bootcamp_env
+ 6136  jupyter lab
+ 6137  conda deactivate
+ 6138  git status
+ 6139  git add .
+ 6140  git add *
+ 6141  git commit -m 'update codes with tutor'
+ 6142  git push
+ 6143  git pull
+ 6144  conda activate bootcamp_ml_env
+ 6145  jupyter lab
+ 6146  git status
+ 6147  git pull
+ 6148  conda activate bootcamp_env
+ 6149  jupyter lab
+ 6150  conda deactivate
+ 6151  conda activate bootcamp_ml_env
+ 6152  jupyter lab
+ 6153  git pull
+ 6154  git status
+ 6155  conda deactivate
+ 6156  conda activate bootcamp_env
+ 6157  jupyter lab
+ 6158  git add .
+ 6159  git add *
+ 6160  git commit -m 'finalize assignment'
+ 6161  git push
+ 6162  jupyter notebook
+ 6163  jupyter lab
