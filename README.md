@@ -255,6 +255,8 @@ Brandon Wong
 
 [Shane Lynn](https://www.shanelynn.ie/pandas-drop-delete-dataframe-rows-columns/)
 
+[STACK OVERFLOW](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository)
+
 [STACK OVERFLOW](https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe)
 
 [STACK OVERFLOW](https://stackoverflow.com/questions/25669588/convert-percent-string-to-float-in-pandas-read-csv)
